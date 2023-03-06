@@ -54,7 +54,7 @@ dependencies {
     // This library handles authentication and authorization
     implementation 'com.github.kaaes:spotify-web-api-android:0.4.1'
 
-    implementation 'com.journeyapps:zxing-android-embedded:3.4.0'
+    implementation 'com.journeyapps:zxing-android-embedded:3.6.0'
     implementation 'com.spotify.android:auth:2.0.2'
     implementation "com.google.code.gson:gson:2.8.5"
 
