@@ -55,7 +55,7 @@ dependencies {
     implementation 'com.github.kaaes:spotify-web-api-android:0.4.1'
 
     implementation 'com.journeyapps:zxing-android-embedded:3.4.0'
-    implementation 'com.spotify.android:auth:1.2.3'
+    implementation 'com.spotify.android:auth:1.2.6'
     implementation "com.google.code.gson:gson:2.8.5"
 
     implementation 'com.cuberto:liquid-swipe:1.0.0'
